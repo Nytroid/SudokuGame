@@ -1,7 +1,7 @@
 # GUI.py
 # RUN THIS FILE
 import pygame
-from main import solve, valid
+from solver import solve, valid
 import time
 import boardGenerator
 pygame.font.init()
